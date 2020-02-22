@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import moment from "moment";
-import Chart from "react-chartjs-2";
+import {Chart} from "react-chartjs-2";
 
 class Performance extends Component {
     constructor(props, context) {
